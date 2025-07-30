@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../../Task manager"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"java.configuration.updateBuildConfiguration": "interactive"
+	}
+}
